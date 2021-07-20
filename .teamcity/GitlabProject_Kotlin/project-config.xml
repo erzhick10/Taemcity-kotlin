@@ -19,7 +19,7 @@
         <param name="credentialsStorageType" value="credentialsJSON" />
         <param name="enabled" value="true" />
         <param name="rootId" value="GitlabProject_Kotlin_HttpsGithubComErzhick10TaemcityKotlinRefsHeadsMaster" />
-        <param name="showChanges" value="false" />
+        <param name="showChanges" value="true" />
       </parameters>
     </extension>
   </project-extensions>
